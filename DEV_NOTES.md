@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Wrote notes on upcoming feature design
 - Refactored module structure for clarity
+
+## 2026-03-23
+- Tidied up project structure
