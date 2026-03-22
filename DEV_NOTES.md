@@ -19,3 +19,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Tidied up project structure
+
+## 2026-03-23
+- Reviewed open issues, added labels
+- Added CONTRIBUTING.md stub
+- Updated .gitignore to exclude build artifacts
